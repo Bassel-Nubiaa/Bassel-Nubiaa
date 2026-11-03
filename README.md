@@ -18,7 +18,7 @@ I'm a Computer & Automatic Control engineer. In control engineering you design s
 - **Business logic & automation:** Python server actions, automated actions, custom data models
 - **Reports & views:** XML / QWeb customization
 - **Project costing:** estimates, BoQ, analytic accounting, estimated vs. actual cost
-
+- **Odoo addons:** custom modules from real implementation projects. See [odoo-addons](https://github.com/Bassel-Nubiaa/odoo-addons) *(work in progress)*
 ### Fun-time projects
 
 | Project | What it does | What it taught me |
