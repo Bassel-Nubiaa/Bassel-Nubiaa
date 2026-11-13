@@ -4,32 +4,43 @@
 
 ### Hi, I'm Bassel
 
-I'm a Computer & Automatic Control engineer. In control engineering you design systems that measure, decide and correct themselves, and I bring that same idea to everything I build.
+I'm an Odoo consultant and developer, and a Computer and Automatic Control engineer. In control
+engineering you design systems that measure, decide and correct themselves, and I bring that
+same idea to every Odoo project.
 
-**By day** I implement and customize **Odoo ERP**. I've delivered 13+ projects in construction, manufacturing, trading and renewable energy, across the UAE, Kuwait, Iraq and Congo.
+I've delivered **16 Odoo implementations** for construction, manufacturing, trading and renewable
+energy companies in the UAE, Kuwait, Iraq and Congo, functional and technical.
 
-**The rest of the time** I build **fun-time projects**: things I make to teach myself a new skill and sharpen the ones I have.
+**Portfolio:** [bassel-nubiaa.github.io](https://bassel-nubiaa.github.io)
 
 ---
+
+### Odoo projects
+
+| Repository | What it does | Odoo |
+|---|---|---|
+| [**odoo-gold-retail**](https://github.com/Bassel-Nubiaa/odoo-gold-retail) | Multi-customer dropship from one purchase order, and customer invoices netted against the same customer's open bills. 2 modules, 50 automated tests | 18.0 |
+| [**odoo-multi-site-delivery**](https://github.com/Bassel-Nubiaa/odoo-multi-site-delivery) | Deliveries to land sites: a source and a driver per order line, and a shipping review before confirmation | 17.0 |
+
+Every module is built through inheritance, with no changes to Odoo's core code.
 
 ### What I do
 
 - **Odoo implementation, from start to finish:** requirements, gap analysis, process design, go-live and training
-- **Business logic & automation:** Python server actions, automated actions, custom data models
-- **Reports & views:** XML / QWeb customization
-- **Project costing:** estimates, BoQ, analytic accounting, estimated vs. actual cost
-- **Odoo addons:** custom modules from real implementation projects. See [odoo-addons](https://github.com/Bassel-Nubiaa/odoo-addons) *(work in progress)*
-### Fun-time projects
+- **Custom Odoo modules:** models, views, wizards, procurement and accounting logic, automated tests
+- **Business logic and automation:** Python, server actions, automated actions
+- **Reports and views:** XML and QWeb
+- **Project costing:** estimates, bills of quantities, analytic accounting, estimated against actual cost
 
-| Project | What it does | What it taught me |
-|---|---|---|
-| [**MotionForge**](https://github.com/Bassel-Nubiaa/MotionForge) | Turns a simple JSON file into a 60-second motion graphics video. An AI writes the JSON from a topic, and the engine renders it in Google Colab with Remotion. No designing or rendering by hand. | React-based video, rendering pipelines, prompt design |
-| *More coming soon* | | |
+### Closed Loop
+
+A [LinkedIn](https://www.linkedin.com/in/bassel-nubiaa/) video series where I rebuild real Odoo
+implementations as clean, tested modules, and explain the decisions and mistakes along the way.
 
 ### Toolbox
 
-`Python` · `Odoo (ORM, QWeb, server actions)` · `PostgreSQL` · `XML` · `JavaScript / React` · `Remotion` · `Google Colab` · `Make` · `Google Workspace`
+`Python` · `Odoo (ORM, QWeb, wizards, tests)` · `PostgreSQL` · `XML` · `JavaScript` · `Git` · `Docker` · `Google Colab`
 
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/bassel-nubiaa/) · [Email](mailto:bassel.nubiaa98@gmail.com) · Open to remote work and relocation
+[Portfolio](https://bassel-nubiaa.github.io) · [LinkedIn](https://www.linkedin.com/in/bassel-nubiaa/) · Open to remote work and relocation
